@@ -1,0 +1,9 @@
+
+#konten{
+    background-image: url"image/backgorund.jpg";
+    padding: 25px 0;
+    border-radius: 25px;
+    border: 0.1px solid #099FFF;
+    background-color: #18181B;
+    box-shadow: 0 4px 8px 0 #00FFFF, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
